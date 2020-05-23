@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-players"
+    }
+  },
+  "defaultProject": "ng-players",
+  "cli": {
+    "analytics": "bda4d0e3-9672-4892-9b7e-34f821743d64"
+  }
 }
